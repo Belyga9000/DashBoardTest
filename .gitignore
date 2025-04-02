@@ -20,7 +20,7 @@
 *.pem
 
 # debug
-npm-debug.log*
+npm-debugpnplog*
 yarn-debug.log*
 yarn-error.log*
 
